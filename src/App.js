@@ -33,13 +33,13 @@ class App extends Component {
           <h1 className="App-title">This is supposed to be like Flickr's Justifiedsomething</h1>
         </header>
         <p className="App-intro">
-          Please pretend there're some pictures here.
+          So this is another Flickr's something again, and even hard than the previous one.
           {this.state.pictures[20]}
         </p>
-        <li>I know there isn't any, but just pretend there is.</li>
-        <li>But seriously, how can I do this exercise again?</li>
-        <li>This feels like I'm just ranting but it looks as if I ask them "How do you breath?" and they reply "Just breath" when I question them about this homework</li>
-        <li>Well, coding is hard though...</li>
+        <li>I don't think I could complete this homework, tbh.</li>
+        <li>So I decided to just rant about it</li>
+        <li>ReactJs is like a bunch of complicated things put together</li>
+        <li>I don't think I dislike it, but it's hard for someone who didn't pass the Web Develop subject like me</li>
       </div>
     );
   }
